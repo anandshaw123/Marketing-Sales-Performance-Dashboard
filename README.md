@@ -1,5 +1,14 @@
 # Marketing-Sales-Performance-Dashboard
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+![Marketing & Sales Performance](https://github.com/user-attachments/assets/d5d5fde7-e8a5-4794-b4db-c457ec2edf9f)
+
+
+
+
 
 ## ❓Problem Statement
 Businesses often struggle to track and optimize their marketing and sales performance due to fragmented data and a lack of visual insights. Without a clear understanding of revenue trends, marketing effectiveness, and sales team contributions, decision-making becomes challenging, leading to inefficiencies and missed opportunities for revenue growth.
@@ -17,10 +26,10 @@ Optimize decision-making by identifying the most profitable sales channels and s
 
 ## 🛠️ Tools Used
 
-- **Analytical & Visual:** Microsoft Excel\
+- **Analytical & Visual:** Microsoft Excel
 <img width="96" height="96" src="https://github.com/amanat-mahmud/useful_icons/blob/main/icons8-microsoft-excel-144.png" alt="microsoft-excel-2019--v1"/>
 
-- **Presentation:** Microsoft Power Point\
+- **Presentation:** Microsoft Power Point
 <img width="96" height="96" src="https://github.com/amanat-mahmud/useful_icons/blob/main/icons8-power-point-144.png" alt="microsoft-powerpoint-2019"/>
 
 
@@ -41,7 +50,6 @@ Optimize decision-making by identifying the most profitable sales channels and s
 - Total Sales by Sales Group.
 - Register Courses by Month
 - Skill Levels Fees By Sales Team
-- 
   
 ### Revenue Trends (Total Earnings by Month):
 
@@ -78,11 +86,32 @@ Optimize decision-making by identifying the most profitable sales channels and s
 
 ## 💡Recommendations
 
- - Increase investment in Television Ads and Facebook Page Marketing to maximize revenue.
- - Improve sales training and strategies for underperforming team members (Taylor & Morgan).
- - Focus on offering discounts or marketing campaigns in low-performing months (March-April).
- - Promote high-revenue skill levels (KII. L4, Fdn. L5) more aggressively to drive profits.
- - Expand marketing efforts in high-performing locations (A101, A201) to sustain growth.
+- Increase investment in Television Ads and Facebook Page Marketing to maximize revenue.
+- Improve sales training and strategies for underperforming team members (Taylor & Morgan).
+- Focus on offering discounts or marketing campaigns in low-performing months (March-April).
+- Promote high-revenue skill levels (KII. L4, Fdn. L5) more aggressively to drive profits.
+- Expand marketing efforts in high-performing locations (A101, A201) to sustain growth.
+
+
+
+
+
+## Project Presentation
+Pending...
+
+### Slides
+
+The detailed presentation slides for this project can be found
+
+
+
+## Installation and Usage
+- Microsoft Excel
+
+
+
+
+
 
 
 
