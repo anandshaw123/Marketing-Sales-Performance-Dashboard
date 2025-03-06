@@ -15,7 +15,7 @@ Businesses often struggle to track and optimize their marketing and sales perfor
 The objective of the "Marketing & Sales Performance Dashboard" is to provide a comprehensive, interactive, and visually appealing that helps businesses monitor key sales and marketing performance metrics. This dashboard aims to:
 Track total earnings and enrolled courses to measure business growth.
 Analyze earnings trends over months to identify peak and low-performance periods.
-Evaluate marketing effectiveness by understanding revenue contributions from different marketing divisions (e.g., Facebook, Google Ads, YouTube).
+Evaluate marketing effectiveness by understanding revenue contributions from different marketing divisions **(Facebook, Google Ads, YouTube).**
 Assess sales performance by grouping earnings based on sales representatives.
 Monitor course enrollments based on skill levels to identify demand trends.
 Optimize decision-making by identifying the most profitable sales channels and skill levels.
