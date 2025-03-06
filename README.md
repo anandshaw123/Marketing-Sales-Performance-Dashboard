@@ -12,8 +12,7 @@ Businesses often struggle to track and optimize their marketing and sales perfor
 
 ## 🎯Objective
 
-The objective of the "Marketing & Sales Performance Dashboard" is to provide a comprehensive, interactive, and visually appealing Excel dashboard that helps businesses monitor key sales and marketing performance metrics. This dashboard aims to:
-
+The objective of the "Marketing & Sales Performance Dashboard" is to provide a comprehensive, interactive, and visually appealing that helps businesses monitor key sales and marketing performance metrics. This dashboard aims to:
 Track total earnings and enrolled courses to measure business growth.
 Analyze earnings trends over months to identify peak and low-performance periods.
 Evaluate marketing effectiveness by understanding revenue contributions from different marketing divisions (e.g., Facebook, Google Ads, YouTube).
