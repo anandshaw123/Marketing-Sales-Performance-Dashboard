@@ -100,21 +100,25 @@ Optimize decision-making by identifying the most profitable sales channels and s
 Pending...
 
 ### Slides
-
-The detailed presentation slides for this project can be found
-
+`The detailed presentation slides for this project can be found`
 
 
-## Installation and Usage
-- Microsoft Excel
+## 🧠 Project Learnings
+1. Data Loading and Transformations.
+2. Pivot Table Analysis.
+3. Data Visualization.
+4. Conditional Column.
+5. Importance of Data Quality.
+6. Data Storytelling.
+7. Sharpened Analytical and Problem-Solving Abilities.
+8. Strengthened Strategic Planning and Presentation Skill.
+9. Enhanced Communication Skills.
 
 
+## 📈 Dashboard
 
 
-
-
-
-
+![Marketing Sales Performance](https://github.com/user-attachments/assets/8b5980b5-3ac4-4f0f-9d6c-4578592778f0)
 
 
 
