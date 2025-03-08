@@ -51,13 +51,13 @@ Optimize decision-making by identifying the most profitable sales channels and s
 - Register Courses by Month
 - Skill Levels Fees By Sales Team
   
-### Revenue Trends (Total Earnings by Month):
+#### Revenue Trends (Total Earnings by Month):
 
  - Highest earning month: October (₹1,450,000).
  - Lowest earning month: April (₹21,000).
  - Average monthly earnings: ₹530,417.
 
-### Marketing Effectiveness (Marketing by Division):
+#### Marketing Effectiveness (Marketing by Division):
 
  - Top-performing marketing channels:
  - Television Ads (₹1,845,000)
@@ -65,19 +65,19 @@ Optimize decision-making by identifying the most profitable sales channels and s
  - Company Website (₹1,026,000)
  - Least effective channel: YouTube Channel (₹351,000).
 
-### Sales Performance (Total Sales by Sales Group):
+#### Sales Performance (Total Sales by Sales Group):
 
  - Top-performing salespersons:
  - Jordan: ₹2,154,000
  - Johnson: ₹2,034,000
  - Lowest performer: Taylor (₹1,097,000).
 
-### Course Registration Trends (Registered Courses by Month):
+#### Course Registration Trends (Registered Courses by Month):
 
  - Highest enrollments: October (277 registrations).
  - Lowest enrollments: March (28 registrations).
 
-### Skill Level Analysis (Skill Level Fees by Sales Team):
+#### Skill Level Analysis (Skill Level Fees by Sales Team):
 
  - Highest revenue-generating skill level: KII. L4 (₹1,321,000)
  - Lowest revenue-generating skill level: Pre. L8 (₹425,000)
