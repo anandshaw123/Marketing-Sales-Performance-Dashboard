@@ -119,7 +119,7 @@ Pending...
 ## 📈 Dashboard
 
 
-![Marketing Sales Performance](https://github.com/user-attachments/assets/8b5980b5-3ac4-4f0f-9d6c-4578592778f0)
+![Marketing Sales Performance]()
 
 
 
