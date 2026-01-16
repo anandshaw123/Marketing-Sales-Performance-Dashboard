@@ -4,7 +4,8 @@
 
 
 
-![Marketing & Sales Performance](https://github.com/user-attachments/assets/d5d5fde7-e8a5-4794-b4db-c457ec2edf9f)
+![Marketing & Sales Performance](<img width="1536" height="1024" alt="ChatGPT Image Jan 16, 2026, 03_29_26 PM" src="https://github.com/user-attachments/assets/e6ce1db1-90d1-4fb0-b9f7-e927493dd7fd" />
+)
 
 
 
